@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**alyhassan23/alyhassan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi there! I'm a passionate Software Engineer from Pakistan, currently an undergraduate student pursuing a degree in Software Engineering at Lahore Garrison University. I have a strong foundation in full-stack web development, and I'm skilled in languages such as C++ and JavaScript.<br><br>💻 I love building innovative web applications that enhance user experience and solve real-world problems. My journey in programming has equipped me with the ability to work on both the front-end and back-end, enabling me to create seamless and dynamic applications.<br><br>🚀 I'm constantly learning and exploring new technologies, frameworks, and best practices to expand my skill set. I'm particularly interested in web development frameworks like React and Node.js, and I enjoy collaborating on projects that challenge my abilities.<br><br>🌱 When I'm not coding, you can find me exploring tech blogs, contributing to open-source projects, or diving into new programming languages. I'm eager to connect with like-minded individuals and work on exciting projects that push the boundaries of technology.<br><br>Feel free to check out my repositories and let's connect!
 
 
@@ -35,5 +22,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=alyhassan23&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
