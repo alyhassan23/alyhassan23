@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Software Engineer from Pakistan, currently an undergraduate student pursuing a degree in Software Engineering at Lahore Garrison University. I have a strong foundation in full-stack web development, and I'm skilled in languages such as C++ and JavaScript.<br><br>💻 I love building innovative web applications that enhance user experience and solve real-world problems. My journey in programming has equipped me with the ability to work on both the front-end and back-end, enabling me to create seamless and dynamic applications.<br><br>🚀 I'm constantly learning and exploring new technologies, frameworks, and best practices to expand my skill set. I'm particularly interested in web development frameworks like React and Node.js, and I enjoy collaborating on projects that challenge my abilities.<br><br>🌱 When I'm not coding, you can find me exploring tech blogs, contributing to open-source projects, or diving into new programming languages. I'm eager to connect with like-minded individuals and work on exciting projects that push the boundaries of technology.<br><br>Feel free to check out my repositories and let's connect!
+👋 Hi there! I'm a passionate Software Engineer from Pakistan, currently an undergraduate student pursuing a degree in Software Engineering at Lahore Garrison University. I have a strong foundation in full-stack web development, with skills in languages like C++ and JavaScript.
+
+💻 I love building innovative web applications that enhance user experience and solve real-world problems. My journey in programming has equipped me with the ability to work on both the front-end and back-end, enabling me to create seamless and dynamic applications.
+
+📊 In addition to my software development skills, I am also a Data Analyst proficient in Power BI. I enjoy transforming complex data into actionable insights and am particularly interested in Data Science, Artificial Intelligence, and Machine Learning. I'm excited about leveraging data to drive decision-making and create impactful solutions.
+
+🚀 I'm constantly learning and exploring new technologies, frameworks, and best practices to expand my skill set. I'm particularly interested in web development frameworks like React and Node.js, as well as the latest trends in AI and ML.
+
+🌱 When I'm not coding or analyzing data, you can find me exploring tech blogs, contributing to open-source projects, or diving into new programming languages. I'm eager to connect with like-minded individuals and collaborate on exciting projects that push the boundaries of technology.
+
+Feel free to check out my repositories and let's connect!
 
 
 ## 🌐 Socials:
